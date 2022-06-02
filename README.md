@@ -3,4 +3,4 @@
 
 
 #### Links úteis:
-[Sintaxe básica MarkDown]: https://www.markdownguide.org/basic-syntax/
+[Sintaxe básica MarkDown](https://www.markdownguide.org/basic-syntax/)
