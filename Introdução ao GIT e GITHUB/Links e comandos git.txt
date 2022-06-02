@@ -1,6 +1,6 @@
-Link GIT: https://git-scm.com/downloads
+## Link GIT: https://git-scm.com/downloads
 
-C omando básicos GIT:
+## Comandos básicos GIT:
 
 git init
 git add
