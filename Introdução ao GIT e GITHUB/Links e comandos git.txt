@@ -1,0 +1,10 @@
+Link GIT: https://git-scm.com/downloads
+
+C omando básicos GIT:
+
+git init
+git add
+git commit
+git clone
+git push
+git pull
