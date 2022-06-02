@@ -2,9 +2,9 @@
 
 ## Comandos básicos GIT:
 
-git init
-git add
-git commit
-git clone
-git push
-git pull
+git init / 
+git add / 
+git commit / 
+git clone / 
+git push / 
+git pull / 
